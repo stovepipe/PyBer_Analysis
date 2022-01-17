@@ -12,7 +12,7 @@
 
 ### Differences Among City Types
 
-    In reviewing the Pyber Summary dataframe below, one can see significant value ranges across every metric for the three city types. Total Rides and Total Drivers generally follow expected trends based off the city type. In other words, you would expect fewer rides and fewer drivers in a rural city when compared to an urban city. However, the Average Fare per Ride and Average Fare per Driver results share a much more interesting story.
+    In reviewing the Pyber Summary dataframe below, note the significant value ranges across every metric for the three city types. Total Rides and Total Drivers generally follow expected trends based off the city type. In other words, you would expect fewer rides and fewer drivers in a rural city when compared to an urban city. However, the Average Fare per Ride and Average Fare per Driver results share a much more interesting story.
 
 ![Pyber_Summary_df.png](https://github.com/stovepipe/PyBer_Analysis/blob/main/Analysis/Pyber_Summary_df.png)
 
@@ -26,6 +26,6 @@
 
 ### Analysis identified three business recommendations to the CEO for addressing disparities among the city types.
 
-    1. We recommend that PyBer explore ways to reduce the number of drivers in Urban cities. With so many drivers, PyBer has oversupplied the urban market, diminishing returns for drivers.
-    2. We also recommend that PyBer explore ways to increase the number of drivers in Rural cities. In its current state, Pyber has undersupplied the rural market so much so that the drivers who do operate in rural settings show significant returns for the driver's time.
-    3. The final recommendation based on this anlysis is to adjust operations across all three city types to reflect the ratio of rides to drivers as shown in the Suburban city type. The suburban Average Fare per Driver is still higher than the Average Fare per Ride, incentivizing drivers with positive returns, while efficiently meeting market demand.
+    1. Recommended that PyBer explore ways to reduce the number of drivers in Urban cities. With so many drivers, PyBer has oversupplied the urban market, diminishing returns for drivers.
+    2. Recommended that PyBer explore ways to increase the number of drivers in Rural cities. In its current state, Pyber has undersupplied the rural market so much so that the drivers who do operate in rural settings show significant returns for the driver's time.
+    3. Final recommendation is to adjust operations across all three city types to reflect the ratio of rides to drivers as shown in the Suburban city type. The suburban Average Fare per Driver is still higher than the Average Fare per Ride, incentivizing drivers with positive returns, while efficiently meeting market demand for PyBer.
